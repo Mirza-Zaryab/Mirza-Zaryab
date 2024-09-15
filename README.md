@@ -1,6 +1,6 @@
-  <a href="https://github.com/ragibalasad?tab=followers">
+  <a href="https://github.com/Mirza-Zaryab?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://readme-gizmos.vercel.app/github/followers/Mirza-Zaryab?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=follow&logoColor=white"/></a>
-    <a href="https://github.com/ragibalasad?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Mirza-Zaryab?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://readme-gizmos.vercel.app/github/stars/Mirza-Zaryab?color=55960c&labelColor=488207&style=flat&logo=star"/></a>
 <a href="https://visitcount.itsvg.in">
   <img align=right src="https://visitcount.itsvg.in/api?id=Mirza-Zaryab&label=Profile%20Views&color=1&icon=5&pretty=true" />
@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=32&duration=2500&pause=1000&color=4493F8&repeat=true&width=350&height=45&lines=Full-Stack+Web+dev;Mobile+App+dev;7%2B+years+experience.)](https://git.io/typing-svg) <br>
 I'm a dynamic Full-Stack Web and Mobile App Developer with over 7 years of experience in React Native + MERN stack.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![x](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-zaryab/) [![x](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
 
 <div>
   <h2>My GitHub Stats 📊</h2>
