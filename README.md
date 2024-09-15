@@ -9,7 +9,7 @@
 <h1> Hey 👋, I'm <a href="https://github.com/Mirza-Zaryab">Zaryab Baig!</a></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=32&duration=2500&pause=1000&color=4493F8&repeat=true&width=350&height=45&lines=Full-Stack+Web+dev;Mobile+App+dev;7%2B+years+experience.)](https://git.io/typing-svg) <br>
-I'm a dynamic Full-Stack Web and Mobile App Developer with over 7 years of experience in React Native + MERN stack.
+I'm a dynamic Full-Stack Web and Mobile App Developer with over 6 years of experience in React Native + MERN stack.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![x](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
 
