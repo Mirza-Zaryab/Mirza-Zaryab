@@ -19,9 +19,9 @@ I'm a dynamic Full-Stack Web and Mobile App Developer with over 7 years of exper
 
 <h2>My GitHub Stats 📊</h2>
 <div align=center>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Mirza-Zaryab&date_format=M%20j%5B%2C%20Y%5D&background=24292F&border=373E47&stroke=2963BD92&ring=4D90DC&fire=4D90DC&currStreakNum=F0F0F0&sideNums=F0F0F0&currStreakLabel=F0F0F0&sideLabels=F0F0F0&dates=929292" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirza-Zaryab&show_icons=true&theme=github_dark_dimmed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Zaryab&layout=compact&show_icons=true&theme=github_dark_dimmed&langs_count=8">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Mirza-Zaryab&theme=aura&hide_border=true&background=000014" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mirza-Zaryab&show_icons=true&theme=aura&hide_border=true&bg_color=070714">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Zaryab&layout=compact&show_icons=true&theme=aura&hide_border=true&bg_color=070714&langs_count=8">
 </div>
 
 ## Language and Framework 🛠️
