@@ -11,13 +11,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=32&duration=2500&pause=1000&color=4493F8&repeat=true&width=350&height=45&lines=Full-Stack+Web+dev;Mobile+App+dev;7%2B+years+experience.)](https://git.io/typing-svg) <br>
 I'm a dynamic Full-Stack Web and Mobile App Developer with over 7 years of experience in React Native + MERN stack.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-zaryab/) [![x](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-zaryab/) 
+[![x](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![example@gmail.com](https://img.shields.io/badge/example@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragibalasad@pm.me)
 
-<div>
-  <h2>My GitHub Stats 📊</h2>
-  <img src="https://streak-stats.demolab.com?user=Mirza-Zaryab&theme=github_dark&hide_border=true&background=000" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Zaryab&layout=compact&show_icons=true&theme=aura&hide_border=true&bg_color=000&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirza-Zaryab&show_icons=true&theme=aura&hide_border=true&bg_color=000">
+
+<h2>My GitHub Stats 📊</h2>
+<div align=center>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Mirza-Zaryab&date_format=M%20j%5B%2C%20Y%5D&background=24292F&border=373E47&stroke=2963BD92&ring=4D90DC&fire=4D90DC&currStreakNum=F0F0F0&sideNums=F0F0F0&currStreakLabel=F0F0F0&sideLabels=F0F0F0&dates=929292" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mirza-Zaryab&show_icons=true&theme=github_dark_dimmed">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Zaryab&layout=compact&show_icons=true&theme=github_dark_dimmed&langs_count=8">
 </div>
 
 ## Language and Framework 🛠️
